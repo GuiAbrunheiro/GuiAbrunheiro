@@ -32,12 +32,6 @@
 - 🧠 Acredito que aprender todo dia é o que transforma um programador comum em alguém fora da curva.
 - 🔍 Estou buscando meu primeiro emprego fixo para evoluir profissionalmente e crescer junto com um time que valorize o aprendizado.
 
----
-
-> _"Não é sobre saber tudo, é sobre estar sempre disposto a aprender."_  
-> — Guilherme Abrunheiro
-
----
-
 📫 **Entre em contato comigo**:  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-abrunheiro/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-abrunheiro/) 
