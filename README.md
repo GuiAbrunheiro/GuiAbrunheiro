@@ -1,8 +1,7 @@
 # 👋 Olá! Eu sou o Guilherme Abrunheiro
 
-🎓 Estudante de Ciência da Computação na **ETEC**  
+🎓 Estudante de Ciência da Computação na **Unifor**  
 💼 Experiência como Desenvolvedor de Apps na **Master Inova**  
-📚 Atualmente focado em **React**, **TypeScript** e **Tailwind CSS**  
 🚀 Em busca de uma oportunidade para **consolidar meus conhecimentos** na área de desenvolvimento web e mobile.
 
 ---
@@ -42,4 +41,4 @@
 ---
 
 📫 **Entre em contato comigo**:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-abrunheiro/)  
